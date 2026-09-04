@@ -1,0 +1,43 @@
+{
+  "typ": "manifest",
+  "schema_version": 1,
+  "pakete": {
+    "zinspaket": {
+      "version": "2026.09.2",
+      "datei": "zinspaket-2026.09.2.dwpkg.json",
+      "sha256": "642318fcd9bfb9971b2453c18ea1410d2f30e2b21c6b8884b74f452b1d99d23c",
+      "veroeffentlicht_am": "2026-09-04T11:15:19+00:00",
+      "freigegeben_von": [
+        "Daniel Winkler (Redaktion)",
+        "Daniel Winkler (Beta-Freigabe, keine zweite Person)"
+      ]
+    },
+    "contentpaket": {
+      "version": "2026.09.2",
+      "datei": "contentpaket-2026.09.2.dwpkg.json",
+      "sha256": "fc65ae7e2ceb03979bf2887d279f9bd1d6b75ecf0db93a287c6a5bbb072ef9be",
+      "veroeffentlicht_am": "2026-09-04T11:15:19+00:00",
+      "freigegeben_von": [
+        "Daniel Winkler (Redaktion)",
+        "Daniel Winkler (Beta-Freigabe, keine zweite Person)"
+      ]
+    }
+  },
+  "app": {
+    "version": "0.3.4",
+    "veroeffentlicht_am": "2026-09-04T11:15:19+00:00",
+    "hinweise": "Beta — portables Paket auf Anfrage bei DAWICON.",
+    "downloads": {
+      "windows": {
+        "url": "https://github.com/dawicon-gmbh/RST-Manager/releases/download/v0.3.4/DAWICON-Rueckstellungs-Manager-0.3.4-Setup.exe",
+        "sha256": null,
+        "groesse": null
+      },
+      "macos": {
+        "url": "https://github.com/dawicon-gmbh/RST-Manager/releases/download/v0.3.4/DAWICON-Rueckstellungs-Manager-0.3.4.dmg",
+        "sha256": null,
+        "groesse": null
+      }
+    }
+  }
+}
