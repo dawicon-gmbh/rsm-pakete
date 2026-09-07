@@ -3,20 +3,20 @@
   "schema_version": 1,
   "pakete": {
     "zinspaket": {
-      "version": "2026.09.3",
-      "datei": "zinspaket-2026.09.3.dwpkg.json",
-      "sha256": "f6e8afab7ebc19e87becb7d670999680410c300ab90dc51d3dcd3d90da3e5d34",
-      "veroeffentlicht_am": "2026-09-07T08:18:39+00:00",
+      "version": "2026.09.6",
+      "datei": "zinspaket-2026.09.6.dwpkg.json",
+      "sha256": "461c2560285f96842a99365d666c4cb75b7f217df3e7f3d1e8bea92519138be7",
+      "veroeffentlicht_am": "2026-09-07T14:49:56+00:00",
       "freigegeben_von": [
         "Daniel Winkler (Redaktion)",
         "Daniel Winkler (Beta-Freigabe, keine zweite Person)"
       ]
     },
     "contentpaket": {
-      "version": "2026.09.3",
-      "datei": "contentpaket-2026.09.3.dwpkg.json",
-      "sha256": "5ba27e7024a86c5e3e7d0dca2ba26bcb586a32809a31215b921e12649ed32b99",
-      "veroeffentlicht_am": "2026-09-07T08:18:40+00:00",
+      "version": "2026.09.6",
+      "datei": "contentpaket-2026.09.6.dwpkg.json",
+      "sha256": "d266e09720f00303517bb8bb3a4347c5864d9b3672cdb5267fe144f1b1e12702",
+      "veroeffentlicht_am": "2026-09-07T14:49:57+00:00",
       "freigegeben_von": [
         "Daniel Winkler (Redaktion)",
         "Daniel Winkler (Beta-Freigabe, keine zweite Person)"
@@ -24,17 +24,17 @@
     }
   },
   "app": {
-    "version": "0.6.1",
-    "veroeffentlicht_am": "2026-09-07T08:18:40+00:00",
+    "version": "0.8.0",
+    "veroeffentlicht_am": "2026-09-07T14:49:57+00:00",
     "hinweise": "Beta — portables Paket auf Anfrage bei DAWICON.",
     "downloads": {
       "windows": {
-        "url": "https://github.com/dawicon-gmbh/RST-Manager/releases/download/v0.6.1/DAWICON-Rueckstellungs-Manager-0.6.1-Setup.exe",
+        "url": "https://github.com/dawicon-gmbh/RST-Manager/releases/download/v0.8.0/DAWICON-Rueckstellungs-Manager-0.8.0-Setup.exe",
         "sha256": null,
         "groesse": null
       },
       "macos": {
-        "url": "https://github.com/dawicon-gmbh/RST-Manager/releases/download/v0.6.1/DAWICON-Rueckstellungs-Manager-0.6.1.dmg",
+        "url": "https://github.com/dawicon-gmbh/RST-Manager/releases/download/v0.8.0/DAWICON-Rueckstellungs-Manager-0.8.0.dmg",
         "sha256": null,
         "groesse": null
       }
